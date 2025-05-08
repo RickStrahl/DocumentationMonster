@@ -7,9 +7,8 @@
 
 <img src="Art/DocumentationMonster.png" width=500 />
 
-:::note
-Documentation Monster is still under construction and in Alpha. This site is set up for now as a pure feedback site to early testers only.
-:::
+> [!WARNING]
+> Documentation Monster is still under construction and in Alpha. For now this site is set up for purposes of bug reports and feedback to early testers.
 
 Documentation Monster is a markdown based documentation solution...
 
