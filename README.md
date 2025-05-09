@@ -69,16 +69,25 @@ Here's what main Documentation Monster Window looks like:
 
 ![Screen Shot](ScreenShot.png)
 
+
 #### Html Output Generation:
 
 ![Html Output Generation](images/HtmlOutputGeneration.png)
 
+#### Generated Html Web Site Output
 
-#### Html Render Templates:
+![Generated Web Site](images/GeneratedWebSite.png)
+
+#### Ftp Publishing
+
+![Ftp Publishing](images/FtpPublishing.png)
+
+
+#### Customizable Html Render Templates:
 
 ![Html Render Templates](images/HtmlRenderTemplates.png)
 
-#### Topic Linking
+#### Intra Project Topic Linking
 
 ![Topic Linking](images/TopicLinking.png)
 
