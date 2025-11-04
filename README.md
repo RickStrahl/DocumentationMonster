@@ -5,7 +5,7 @@
 <!--[![NuGet](https://img.shields.io/chocolatey/v/MarkdownMonster.svg)](https://chocolatey.org/packages/MarkdownMonster)-->
 <!--[![](https://img.shields.io/chocolatey/dt/MarkdownMonster.svg)](https://chocolatey.org/packages/MarkdownMonster)-->
 
-<img src="Art/DocumentationMonster.png" width=500 />
+<img src="Art/DocumentationMonster.jpg" width=500 />
 
 > [!WARNING]
 > Documentation Monster is still under construction and in Alpha. For now this site is set up for purposes of bug reports and feedback to early testers.
@@ -14,11 +14,14 @@ Documentation Monster is a markdown based documentation solution...
 
 Documentation Monster is based on Markdown Monster which is a rich Markdown Editor and uses many of the same Markdown editor features.
 
+* [Documentation Monster Web Site](https://documentationmonster.com)
 * [See what's new](Changelog.md)  
 * [License](#license)
 * [Download](https://documentationmonster/download)
-* [Buy](https://documentationmonster.com/purchase)
-* 
+* [Buy a license](https://documentationmonster.com/purchase)
+ 
+
+
 > ### Show your Support
 > If you like what you see here, please consider **starring this repo** (click the :star: in the top right corner of this page). If you have a favorite feature in Markdown Monster, it'd be awesome if you could tweet about it and mention [@documentationmonster](https://x.com/documentationmonster). Please help us spread the word. 
 

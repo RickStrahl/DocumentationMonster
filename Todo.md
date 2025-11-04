@@ -1,24 +1,21 @@
 
-![](screenshot.png){style="width: 400px"}
-
-
-!["Screen Shot"](screenshot.png){style="max-width: 400px" .image-icon}
-
 ### Fixes
-* Still have issues occasionally with topics getting overwritten
+* Still have issues occasionally with topics getting overwritten (especially empty topics)
 	* Check all instances of CurrentText access
 	* All code should ensure that topic ID matches in editor and topic
 
 * Fix Startup Topic
-* Double Check for _docmonster:
-	* Backups
-	* Project Cleanup
-	* Git Config
+* Delete Topic and Delete Child Topic still doesn't work frequently  
+  leaving the topic behind.
+
+
 
 ### Features
 
 
 ### Nice To Have
+
+* New Class Topics and Property and Method section.
 
 * C# XML Doc Comment Clipboard Helpers
   * Copy to XML Doc Comment
