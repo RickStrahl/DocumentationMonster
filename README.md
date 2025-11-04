@@ -7,7 +7,7 @@
 
 <img src="Art/DocumentationMonster.jpg" width=500 />
 
-> [!WARNING]
+> [!NOTE]
 > Documentation Monster is still under construction and in Alpha. For now this site is set up for purposes of bug reports and feedback to early testers.
 
 Documentation Monster is a markdown based documentation solution...
