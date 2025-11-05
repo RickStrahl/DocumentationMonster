@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VersionInfo>
+   <Version>0.3.2</Version>   
+   <PreviewVersion>0.3.2</PreviewVersion>
+   <ReleaseDate>November 5, 2025</ReleaseDate>
+   <Title>Documentation Monster 0.3.2 is now available</Title>
+   <Detail>This is a pre-release build:
+
+* Initial Beta Release
+* Support for project management
+* Rich editing support
+* Build Web Site Html output
+* Output to Web, Pdf, Html and Markdown
+* Publish via FTP 
+* plus [much more...](https://github.com/RickStrahl/DocumentationMonster/blob/main/Changelog.md)
+</Detail>
+</VersionInfo>
