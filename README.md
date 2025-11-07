@@ -8,19 +8,18 @@
 <img src="Art/DocumentationMonster.jpg" width=500 />
 
 > [!NOTE]
-> Documentation Monster is still under construction and in Alpha. For now this site is set up for purposes of bug reports and feedback to early testers.
+> Documentation Monster is still under construction and currently in Beta. For now this site is set up for purposes of bug reports and feedback to early testers.
 
 Documentation Monster is a markdown based documentation solution...
 
 Documentation Monster is based on Markdown Monster which is a rich Markdown Editor and uses many of the same Markdown editor features.
 
 * [Documentation Monster Web Site](https://documentationmonster.com)
-* [See what's new](Changelog.md)  
 * [License](#license)
-* [Download](https://documentationmonster/download)
+* [Download](https://documentationmonster/download) 
 * [Buy a license](https://documentationmonster.com/purchase)
- 
-
+* [Support](https://documentationmonster.com/docs/Documentation-Monster/Support.html)
+* [See what's new](Changelog.md)  
 
 
 > ### Show your Support
