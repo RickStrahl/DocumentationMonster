@@ -22,6 +22,7 @@ Documentation Monster is based on Markdown Monster which is a rich Markdown Edit
  
 
 
+
 > ### Show your Support
 > If you like what you see here, please consider **starring this repo** (click the :star: in the top right corner of this page). If you have a favorite feature in Markdown Monster, it'd be awesome if you could tweet about it and mention [@documentationmonster](https://x.com/documentationmonster). Please help us spread the word. 
 
@@ -36,20 +37,20 @@ You can download Documentation Monster using the self-contained installer:
 
 
 
-<!--### Chocolatey-->
+### Chocolatey
 
-<!--You can you use [Chocolatey](https://chocolatey.org/) to install from the Windows Command Prompt *(maintained by us - always up to date)*-->
+You can you use [Chocolatey](https://chocolatey.org/) to install from the Windows Command Prompt *(maintained by us - always up to date)*
 
-<!--```ps-->
-<!--c:\> choco install documentation-monster-->
-<!--```-->
+```ps
+c:\> choco install DocumentationMonster
+```
 
-<!--### WinGet-->
+### WinGet
 <!--You can also use the built-in Windows WinGet tool:-->
 
-<!--```ps-->
-<!--c:\> winget install documentation-monster-->
-<!--```-->
+```ps
+c:\> winget install documentation-monster
+```
 
 <!--### Scoop-->
 <!--You can also use [Scoop](https://scoop.sh/) to install and update. You need to use the `extras` bucket. *(not maintained by us)*-->
