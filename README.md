@@ -51,12 +51,6 @@ c:\> choco install DocumentationMonster
 c:\> winget install documentation-monster
 ```
 
-<!--### Scoop-->
-<!--You can also use [Scoop](https://scoop.sh/) to install and update. You need to use the `extras` bucket. *(not maintained by us)*-->
-
-<!--```ps-->
-<!--c:\> scoop install documentation-monster-->
-<!--```-->
 
 ## License
 Documentation Monster is a licensed product and while we provide a fully functional, free download, **for continued use a reasonably priced license is required**.
@@ -102,4 +96,4 @@ YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT Y
 IN NO EVENT SHALL THE AUTHOR, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THIS PROGRAM AND DOCUMENTATION, BE LIABLE FOR ANY COMMERCIAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR LOSSES SUSTAINED BY THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS, EVEN IF YOU OR OTHER PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
    
 ---
-&copy; Rick Strahl, West Wind Technologies, 2016-2021
+&copy; Rick Strahl, West Wind Technologies, 2025-2026
